@@ -1,39 +1,6 @@
 Host,Certificate,Expiration
-vcazioe2.zion.ca.kp.org,tomcat,May  1 20:35:40 2019 GMT
-vcazioe1.zion.ca.kp.org,tomcat,May  1 20:26:26 2019 GMT
-vcazioe1.zion.ca.kp.org,ipsec,May  1 20:26:28 2019 GMT
-vcazioe2.zion.ca.kp.org,ipsec,May  1 20:35:42 2019 GMT
-vcaziov1.zion.ca.kp.org,tomcat,Wed May 01 21:21:53 PDT 2019
-vcaziov2.zion.ca.kp.org,tomcat,Wed May 01 21:32:36 PDT 2019
-vcaziot1.zion.ca.kp.org,tomcat,Thu May 02 19:29:15 PDT 2019
-vcaziop1.zion.ca.kp.org,tomcat,Thu May 02 19:14:08 PDT 2019
-vcazios1.zion.ca.kp.org,tomcat,Thu May 02 21:02:23 PDT 2019
-vcazios2.zion.ca.kp.org,tomcat,Thu May 02 19:40:18 PDT 2019
-vcazios3.zion.ca.kp.org,tomcat,Thu May 02 19:51:52 PDT 2019
-vcacrds33.crdc.kp.org,tomcat,Mon Jul 01 22:18:31 PDT 2019
-vcaziov1.zion.ca.kp.org,ipsec,Wed May 01 21:21:56 PDT 2019
-vcaziov2.zion.ca.kp.org,ipsec,Wed May 01 21:32:38 PDT 2019
-vcaziot1.zion.ca.kp.org,ipsec,Thu May 02 19:29:17 PDT 2019
-vcaziop1.zion.ca.kp.org,ipsec,Thu May 02 19:14:11 PDT 2019
-vcazios1.zion.ca.kp.org,ipsec,Thu May 02 21:02:25 PDT 2019
-vcazios2.zion.ca.kp.org,ipsec,Thu May 02 19:40:20 PDT 2019
-vcazios3.zion.ca.kp.org,ipsec,Thu May 02 19:51:54 PDT 2019
-vcacrds33.crdc.kp.org,ipsec,Mon Jul 01 22:18:34 PDT 2019
-vcaziot1.zion.ca.kp.org,CallManager,Thu May 02 19:29:19 PDT 2019
-vcaziop1.zion.ca.kp.org,CallManager,Thu May 02 19:14:12 PDT 2019
-vcazios1.zion.ca.kp.org,CallManager,Thu May 02 21:02:27 PDT 2019
-vcazios2.zion.ca.kp.org,CallManager,Thu May 02 19:40:22 PDT 2019
-vcazios3.zion.ca.kp.org,CallManager,Thu May 02 19:51:56 PDT 2019
-vcaziot1.zion.ca.kp.org,CAPF,Thu May 02 19:29:20 PDT 2019
-vcacrds33.crdc.kp.org,CallManager,Mon Jul 01 22:18:37 PDT 2019
-vcaziop1.zion.ca.kp.org,CAPF,Thu May 02 19:14:14 PDT 2019
-vcazios1.zion.ca.kp.org,CAPF,Thu May 02 21:02:28 PDT 2019
-vcazios2.zion.ca.kp.org,CAPF,Thu May 02 19:40:23 PDT 2019
-vcazios3.zion.ca.kp.org,CAPF,Thu May 02 19:51:57 PDT 2019
-vcaziot1.zion.ca.kp.org,TVS,Thu May 02 19:29:24 PDT 2019
-vcacrds33.crdc.kp.org,CAPF,Mon Jul 01 22:18:39 PDT 2019
-vcaziop1.zion.ca.kp.org,TVS,Thu May 02 19:14:16 PDT 2019
-vcazios2.zion.ca.kp.org,TVS,Thu May 02 19:40:28 PDT 2019
-vcazios1.zion.ca.kp.org,TVS,Thu May 02 21:02:31 PDT 2019
-vcazios3.zion.ca.kp.org,TVS,Thu May 02 19:52:01 PDT 2019
-vcacrds33.crdc.kp.org,TVS,Mon Jul 01 22:18:43 PDT 2019
+10.10.20.1,tomcat,Tue Mar 30 02:19:31 PDT 2021
+10.10.20.1,ipsec,Sun Jul 09 16:38:12 PDT 2023
+10.10.20.1,CallManager,Sun Jul 09 16:32:49 PDT 2023
+10.10.20.1,CAPF,Sun Jul 09 16:32:59 PDT 2023
+10.10.20.1,TVS,Sun Jul 09 16:33:04 PDT 2023
