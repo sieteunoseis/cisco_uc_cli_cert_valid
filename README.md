@@ -4,4 +4,4 @@ Python script used to pull certificate expiration dates from Cisco UC platforms 
 
 ## Usage
 
- ```python3 getExpiration.py -i input.csv -o output.csv
+ ```python3 getExpiration.py -i input.csv -o output.csv```
